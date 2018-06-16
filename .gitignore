@@ -43,4 +43,4 @@ _ReSharper*/
 .svn
 
 # Office Temp Files
-~$*
+*ipynb_checkpoints*
